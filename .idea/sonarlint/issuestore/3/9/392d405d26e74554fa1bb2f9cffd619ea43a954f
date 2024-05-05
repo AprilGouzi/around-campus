@@ -1,0 +1,13 @@
+
+ƒ	java:S125G"<This block of commented-out lines of code should be removed.(Ô‘şÿÿÿÿ8ëè¨æ1J$9ccf9031-2bab-439a-ac8b-cd641f1f8342
+ƒ	java:S125|"<This block of commented-out lines of code should be removed.(»Ãœ‡üÿÿÿÿ8ìè¨æ1J$757ed60a-c877-4260-b989-5a22482cf94a
+“
+java:S3252£"OUse static access with "cn.hutool.core.text.CharSequenceUtil" for "isNotBlank".(Ì·Û8íè¨æ1J$3acca78c-0500-4497-b52a-a62c5898c35c
+
+java:S3252ë"IUse static access with "cn.hutool.core.text.CharSequenceUtil" for "join".(Ê8÷è¨æ1J$681134d8-0c76-42ef-8212-bf5da11d0f2b
+y
+java:S1144 "5Remove this unused private "getShopFormCache" method.(Íÿå‰8ûè¨æ1J$21d5e31a-8ebd-4647-a37a-d0baf46f7d32
+o
+java:S1144…",Remove this unused private "tryLock" method.(ñÊÅX8ûè¨æ1J$bb03b9a1-b728-46ad-8cee-3acd42b45caf
+o
+java:S1144"+Remove this unused private "unlock" method.(²¹‡È8ûè¨æ1J$0065ab51-3c06-4bfd-b678-900f504e0525

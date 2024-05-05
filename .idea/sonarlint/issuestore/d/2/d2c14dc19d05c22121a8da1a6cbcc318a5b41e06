@@ -1,0 +1,9 @@
+
+ã	java:S119K"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(‘¶’Æ8¥±ü§Â1J$5119b1d9-fb40-489a-8d1f-9db8b27d9c49
+í
+java:S3252R"OUse static access with "cn.hutool.core.text.CharSequenceUtil" for "isNotBlank".(Ôù»ﬁ8∑±ü§Â1J$d74955b7-157a-4959-af1e-8f4a45f788e5
+ã	java:S119}"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(˛ùﬂï8∫±ü§Â1J$19f01bd7-398f-4b56-95fc-ffd0d24f0c29
+ê
+java:S3252É"LUse static access with "cn.hutool.core.text.CharSequenceUtil" for "isBlank".(à∑êÇ8ª±ü§Â1J$41a1eb7d-0733-44e7-a2b5-1b0d4a8b5265
+ê
+java:S3252§"LUse static access with "cn.hutool.core.text.CharSequenceUtil" for "isBlank".(à∑êÇ8æ±ü§Â1J$d745d5b3-d7e4-4281-8685-ffa89b574d29
