@@ -11,7 +11,7 @@ spring:
   redis:
     host: <host>
     port: 6379
-    password: "foobared"
+    password: <password>
     lettuce:
       pool:
         max-active: 10
